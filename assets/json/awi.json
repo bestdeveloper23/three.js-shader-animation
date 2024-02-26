@@ -1,0 +1,47 @@
+{
+    "models": [
+        [{
+                "id": "4",
+                "name": "A",
+                "color": { "r": 1, "g": 1, "b": 1 },
+                "url": "assets/models/A_50000.drc",
+                "animationId": 2,
+                "scale": { "x": 1, "y": 1, "z": 1 },
+                "position": { "x": 0, "y": 0, "z": 0 },
+                "rotation": { "x": 0, "y": 0, "z": 0 }
+            },
+            {
+                "id": "4",
+                "name": "R",
+                "color": { "r": 0.6938719153404236, "g": 0.09758713096380234, "b": 0.09758737683296204 },
+                "url": "assets/models/R_50000.drc",
+                "animationId": 11,
+                "scale": { "x": 1, "y": 1, "z": 1 },
+                "position": { "x": 0, "y": 0, "z": 0 },
+                "rotation": { "x": 0, "y": 0, "z": 0 }
+            },
+            {
+                "id": "4",
+                "name": "I",
+                "color": { "r": 1, "g": 1, "b": 1 },
+                "url": "assets/models/I_50000.drc",
+                "animationId": 2,
+                "scale": { "x": 1, "y": 1, "z": 1 },
+                "position": { "x": 0, "y": 0, "z": 0 },
+                "rotation": { "x": 0, "y": 0, "z": 0 }
+            },
+            {
+                "id": "4",
+                "name": "VS",
+                "color": { "r": 1, "g": 1, "b": 1 },
+                "url": "assets/models/VS_50000.drc",
+                "animationId": 2,
+                "scale": { "x": 1, "y": 1, "z": 1 },
+                "position": { "x": 0, "y": 0, "z": 0 },
+                "rotation": { "x": 0, "y": 0, "z": 0 }
+            }
+        ]
+
+
+    ]
+}
